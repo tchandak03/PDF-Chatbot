@@ -17,8 +17,17 @@ How it works:
 - ➔	Language Model: The application utilizes a language model to generate vector representations (embeddings) of the text chunks.
 - ➔	Similarity Matching: When you ask a question, the app compares it with the text chunks and identifies the most semantically similar ones.
 - ➔	Response Generation: The selected chunks are passed to the language model, which generates a response based on the relevant content of the PDFs.
-<img width="370" alt="Picture1" src="https://github.com/tchandak03/PDF-Chatbot/assets/83765905/05016a8b-226f-462d-b775-9ccc15500838">
-![Picture2](https://github.com/tchandak03/PDF-Chatbot/assets/83765905/a23e5300-6a1a-4e3e-a306-1d7a5e63ecb8)
+
+
+Initial page
+<img width="302" alt="Picture1" src="https://github.com/tchandak03/PDF-Chatbot/assets/83765905/05016a8b-226f-462d-b775-9ccc15500838">
+
+Uploading the pdf
+<img width="302" alt="Picture2" src="https://github.com/tchandak03/PDF-Chatbot/assets/83765905/c43723f4-0cdb-4b37-9b8c-c91801993dbb">
+
+Asking the question
 <img width="302" alt="Picture3" src="https://github.com/tchandak03/PDF-Chatbot/assets/83765905/49a07ddf-2d4e-4d5c-9468-6009998f274c">
-<img width="325" alt="Picture4" src="https://github.com/tchandak03/PDF-Chatbot/assets/83765905/36477801-d853-4934-9274-473fc55b9894">
+
+Chatbot generating the answer
+<img width="302" alt="Picture4" src="https://github.com/tchandak03/PDF-Chatbot/assets/83765905/36477801-d853-4934-9274-473fc55b9894">
 
